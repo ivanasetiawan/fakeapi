@@ -1,40 +1,32 @@
 {
   "dish": [
     {
-        "count": 4,
-        "next": null,
-        "previous": null,
-        "results": [
-            {
-                "dish_id": "1606284669000",
-                "slug": "anggrek-amsterdam",
-                "title": "Anggrek Amsterdam",
-                "image_url": "https://www.venopi.com/media/uploads/venue/space/370/370_57097115_1293142440823510_6704550289190488558_n1.jpg",
-                "tags": ["vegan", "halal", "paleo", "keto", "gluten-free", "vegetarian", "nut-free", "low-carb"],
-            },
-            {
-                "dish_id": "1606282718000",
-                "slug": "het-koekemannetje",
-                "title": "Het Koekemannetje",
-                "image_url": "https://www.venopi.com/media/uploads/venue/space/370/370_119970096_241812227265648_3885460485609497802_n.jpg",
-                "tags": ["vegan", "halal", "paleo"],
-            },
-            {
-                "dish_id": "1600778638000",
-                "slug": "umea-bakery",
-                "title": "Umeå Bakery",
-                "image_url": "https://www.venopi.com/media/uploads/venue/space/370/370_WhatsApp_Image_2020-09-22_at_16.27.06.jpeg",
-                "tags": ["vegan", "halal", "paleo"],
-            },
-           {
-                "dish_id": "1606280683000",
-                "slug": "life-of-pie-ams",
-                "title": "Life Of Pie AMS",
-                "image_url": "https://www.venopi.com/media/uploads/venue/space/370/370_120236165_116272946896384_3375750556314842786_n.jpg",
-                "tags": ["low-carb", "nut-free", "vegetarian"],
-            },
-
-        ]
+        "dish_id": "1606284669000",
+        "slug": "anggrek-amsterdam",
+        "title": "Anggrek Amsterdam",
+        "image_url": "https://www.venopi.com/media/uploads/venue/space/370/370_57097115_1293142440823510_6704550289190488558_n1.jpg",
+        "tags": ["vegan", "halal", "paleo", "keto", "gluten-free", "vegetarian", "nut-free", "low-carb"]
+    },
+    {
+        "dish_id": "1606282718000",
+        "slug": "het-koekemannetje",
+        "title": "Het Koekemannetje",
+        "image_url": "https://www.venopi.com/media/uploads/venue/space/370/370_119970096_241812227265648_3885460485609497802_n.jpg",
+        "tags": ["vegan", "halal", "paleo"]
+    },
+    {
+        "dish_id": "1600778638000",
+        "slug": "umea-bakery",
+        "title": "Umeå Bakery",
+        "image_url": "https://www.venopi.com/media/uploads/venue/space/370/370_WhatsApp_Image_2020-09-22_at_16.27.06.jpeg",
+        "tags": ["vegan", "halal", "paleo"]
+    },
+    {
+        "dish_id": "1606280683000",
+        "slug": "life-of-pie-ams",
+        "title": "Life Of Pie AMS",
+        "image_url": "https://www.venopi.com/media/uploads/venue/space/370/370_120236165_116272946896384_3375750556314842786_n.jpg",
+        "tags": ["low-carb", "nut-free", "vegetarian"]
     }
   ]
 }
